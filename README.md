@@ -58,7 +58,7 @@ fun FlipAnimation(
         ),
         label = "flip"
     )
-    // 3D rotation implementation...
+    // See 5. Animation Customization for 3D rotation properties
 }
 ```
 
