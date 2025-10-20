@@ -1,10 +1,12 @@
-package com.mohammadassad.memorygame.ui
+package com.mohammadassad.memorygame
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import com.mohammadassad.memorygame.*
+import com.mohammadassad.memorygame.ui.GameGrid
+import com.mohammadassad.memorygame.ui.GameOverDialog
+import com.mohammadassad.memorygame.ui.GameTopBar
 import kotlinx.coroutines.delay
 
 @Composable
